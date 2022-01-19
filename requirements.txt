@@ -7,3 +7,4 @@ ipywidgets==7.6.5
 ipython==7.3.0
 jupyter==1.0.0
 jupyter-contrib-nbextensions==0.5.0
+nodejs
